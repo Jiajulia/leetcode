@@ -1,6 +1,6 @@
 package search;
 //给定一个排序数组和一个目标值，在数组中找到目标值，并返回其索引
-public class BearchInsert {
+public class twoSumWithTarget {
     public int insert(int[] nums, int target){
         if (nums.length == 0 ) return 0;
         int left = 0;
@@ -14,7 +14,7 @@ public class BearchInsert {
         return left;
     }
     public static void main(String[] args) {
-        BearchInsert twoSum = new BearchInsert();
+        twoSumWithTarget twoSum = new twoSumWithTarget();
         int result = twoSum.insert(new int[] { 1,2,4,5}, 0);
         System.out.println("Pair with target sum: " + result);
     }
