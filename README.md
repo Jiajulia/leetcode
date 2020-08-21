@@ -4,14 +4,17 @@
     * [0035.搜索插入位置](https://github.com/youngyangyang04/leetcode/blob/master/problems/0035.搜索插入位置.md) 8.20
     * [0027.移除元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0027.移除元素.md) 8.20
     * [0026.删除排序数组中的重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/0026.删除排序数组中的重复项.md) 8.20
+    * [0034.数组中第一和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) 8.20
     * [0209.长度最小的子数组](https://github.com/youngyangyang04/leetcode/blob/master/problems/0209.长度最小的子数组.md) 8.20
     * [0059.螺旋矩阵II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0059.螺旋矩阵II.md)
 
 * 链表经典题目 
+    * [0141.环形链表II](https://leetcode-cn.com/problems/longest-common-prefix/)
+    * [0142.环形链表II](https://mp.weixin.qq.com/s/_QVP3IkRZWx9zIpQRgajzA)
     * [0203.移除链表元素](https://mp.weixin.qq.com/s/slM1CH5Ew9XzK93YOQYSjA)
     * [0707.设计链表](https://mp.weixin.qq.com/s/Cf95Lc6brKL4g2j8YyF3Mg)
     * [0206.翻转链表](https://mp.weixin.qq.com/s/pnvVP-0ZM7epB8y3w_Njwg)
-    * [0142.环形链表II](https://mp.weixin.qq.com/s/_QVP3IkRZWx9zIpQRgajzA)
+
 
 * 哈希表经典题目
     * [0242.有效的字母异位词](https://github.com/youngyangyang04/leetcode/blob/master/problems/0242.有效的字母异位词.md)
