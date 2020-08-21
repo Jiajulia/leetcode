@@ -1,4 +1,4 @@
-package linklist;
+package linklist.code;
 
 public class HasCycleTwoIndictor {
     public boolean hasCycle(ListNode head){

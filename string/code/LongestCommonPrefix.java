@@ -1,4 +1,4 @@
-package string;
+package string.code;
 //14. 最长公共前缀
 class LongestCommonPrefix {
     public String longest(String[] strs) {

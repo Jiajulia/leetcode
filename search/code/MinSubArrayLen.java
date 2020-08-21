@@ -1,4 +1,4 @@
-package search;
+package search.code;
 //https://leetcode-cn.com/problems/minimum-size-subarray-sum
 
 public class MinSubArrayLen {

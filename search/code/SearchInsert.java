@@ -1,4 +1,4 @@
-package search;
+package search.code;
 //https://leetcode-cn.com/problems/search-insert-position
 
 public class SearchInsert {

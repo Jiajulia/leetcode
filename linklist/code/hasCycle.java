@@ -1,10 +1,7 @@
-package linklist;
+package linklist.code;
 //141. 环形链表
 
-import java.rmi.UnexpectedException;
 import java.util.HashSet;
-import java.util.LinkedList;
-import linklist.ListNode;
 
 //Definition for singly-linked list.
 

@@ -1,4 +1,4 @@
-package linklist;
+package linklist.code;
 
 class ListNode {
     int val;
