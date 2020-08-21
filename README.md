@@ -1,10 +1,10 @@
 这里我总结了各个类型的经典题目，**初学者可以按照如下顺序来刷题**，算法老手可以按照这个list查缺补漏！
 
 * 数组经典题目
-    * [0035.搜索插入位置](https://github.com/youngyangyang04/leetcode/blob/master/problems/0035.搜索插入位置.md)
-    * [0027.移除元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0027.移除元素.md)
-    * [0026.删除排序数组中的重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/0026.删除排序数组中的重复项.md)
-    * [0209.长度最小的子数组](https://github.com/youngyangyang04/leetcode/blob/master/problems/0209.长度最小的子数组.md)
+    * [0035.搜索插入位置](https://github.com/youngyangyang04/leetcode/blob/master/problems/0035.搜索插入位置.md) 8.20
+    * [0027.移除元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0027.移除元素.md) 8.20
+    * [0026.删除排序数组中的重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/0026.删除排序数组中的重复项.md) 8.20
+    * [0209.长度最小的子数组](https://github.com/youngyangyang04/leetcode/blob/master/problems/0209.长度最小的子数组.md) 8.20
     * [0059.螺旋矩阵II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0059.螺旋矩阵II.md)
 
 * 链表经典题目 
